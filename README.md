@@ -1,6 +1,6 @@
 
 
-# 👋 Hi there, I'm [Mrugesh Patil]!
+# 👋 Hi there, I'm Mrugesh Patil!
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Open+Source+Enthusiast;Problem+Solver;Always+Learning!" alt="Typing SVG" />
