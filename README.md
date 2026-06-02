@@ -88,8 +88,9 @@ const developer = {
 
 <div align="center">
 
-[![Project 1](https://github-readme-stats.vercel.app/api/pin/?username=patilmrugesh&repo=project1&theme=tokyonight)](https://github.com/patilmrugesh/civicboost)
-[![Project 2](https://github-readme-stats.vercel.app/api/pin/?username=patilmrugesh&repo=project2&theme=tokyonight)](https://github.com/patilmrugesh/arogya)
+[![Project 1](https://github-readme-stats.vercel.app/api/pin/?username=patilmrugesh&repo=project1&theme=tokyonight)](https://github.com/patilmrugesh/cloudvault)
+[![Project 2](https://github-readme-stats.vercel.app/api/pin/?username=patilmrugesh&repo=project2&theme=tokyonight)](https://github.com/patilmrugesh/backend-proctorX)
+[![Project 3](https://github-readme-stats.vercel.app/api/pin/?username=patilmrugesh&repo=project2&theme=tokyonight)](https://github.com/patilmrugesh/FitFrienzy)
 
 </div>
 
@@ -114,7 +115,7 @@ const developer = {
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mrugesh-patil)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://yourportfolio.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://mrugeshpatil.in)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:patilmrugesh84@gmail.com)
 
 </div>
