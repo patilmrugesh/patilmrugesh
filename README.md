@@ -110,7 +110,7 @@ An online assessment platform supporting coding challenges, multiple-choice exam
 
 **Stack:** `Java` `Spring Boot` `React` `PostgreSQL` `Docker` `JWT` `REST APIs`
 
-[**Explore Repository →**](https://github.com/patilmrugesh/backend-proctorX)
+[**Explore Repository →**](https://github.com/patilmrugesh/ProctorX)
 
 ---
 
