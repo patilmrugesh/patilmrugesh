@@ -129,18 +129,6 @@ I’m continuously strengthening my engineering fundamentals and backend develop
 
 ---
 
-## GitHub Statistics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=patilmrugesh&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" height="170" alt="GitHub statistics" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=patilmrugesh&layout=compact&theme=transparent&hide_border=true" height="170" alt="Most used programming languages" />
-
-</div>
-
----
-
 ## Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/mrugesh-patil)
