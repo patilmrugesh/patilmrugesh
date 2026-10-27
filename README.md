@@ -114,6 +114,26 @@ An online assessment platform supporting coding challenges, multiple-choice exam
 
 ---
 
+### 04. TweetSense — Information Retrieval & Sentiment Analysis
+
+An end-to-end information retrieval and machine learning system designed to search, rank, and analyze sentiment across 74,000+ tweets using custom indexing, relevance-based ranking algorithms, and sentiment classification.
+
+**Engineering Highlights**
+- Built a custom inverted index with term frequencies and positional postings for efficient tweet retrieval.
+- Implemented Okapi BM25 and TF-IDF cosine similarity for relevance-based document ranking.
+- Developed Boolean search (`AND`, `OR`, `NOT`), exact phrase queries, and Rocchio pseudo-relevance feedback.
+- Trained Logistic Regression, Multinomial Naive Bayes, and a soft-voting ensemble for positive and negative sentiment classification.
+- Integrated sentiment-aware search with filtering, query-term highlighting, and sentiment distribution analytics.
+- Evaluated retrieval performance using Precision@K, Recall, MAP, MRR, and nDCG@10.
+- Built an interactive Streamlit dashboard and implemented automated testing with Pytest.
+
+**Stack:** `Python` `Scikit-learn` `NLTK` `VADER` `NumPy` `SciPy` `Streamlit` `BM25` `TF-IDF` `Pytest`
+
+[**Explore Repository →**](https://github.com/patilmrugesh/sentiment_analysis)
+
+
+---
+
 ## Current Focus
 
 I’m continuously strengthening my engineering fundamentals and backend development capabilities, with particular emphasis on:
