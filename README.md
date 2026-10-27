@@ -92,7 +92,7 @@ A secure file-storage platform combining encrypted object storage, resumable upl
 
 **Stack:** `Java` `Spring Boot` `React` `TypeScript` `PostgreSQL` `MinIO` `Redis` `AES-256-GCM` `Ollama` `pgvector` `Docker`
 
-[**Explore Repository →**](https://github.com/patilmrugesh/cloudvault)
+[**Explore Repository →**](https://github.com/patilmrugesh/CloudVaultt)
 
 ---
 
